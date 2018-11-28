@@ -1,2 +1,3 @@
 My new file to push in local repository
 Changes made on Remote repository
+Input via echo command plus cat
